@@ -9,7 +9,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   font-family: "Nunito", sans-serif;
-  color: #000;
+
 }
 .container {
   position: absolute;
@@ -20,7 +20,7 @@ body {
 .box {
   min-width: 300px;
   background:  #050505;
-  border-radius: 34px;
+  border-radius: 14px;
   text-align: center;
   position: relative;
   margin-bottom: 10px;
