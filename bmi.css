@@ -20,7 +20,7 @@ body {
 .box {
   min-width: 300px;
   background:  #050505;
-  border-radius: 14px;
+  border-radius: 4px;
   text-align: center;
   position: relative;
   margin-bottom: 10px;
