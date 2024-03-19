@@ -1,0 +1,65 @@
+body {
+      background: linear-gradient(to right, #ffffff 0%, #ef1745 100%);
+  }
+  #card {
+      position: relative;
+      top: 110px;
+      width: 320px;
+      display: block;
+      margin: auto;
+      text-align: center;
+      font-family: 'Kaushan Script';
+  }
+
+  #upper-side {
+      padding: 2em;
+      background-color:rgb(55, 184, 8);
+      display: block;
+      color: #fff;
+      border-top-right-radius: 8px;
+      border-top-left-radius: 8px;
+  }
+  #checkmark {
+      font-weight: lighter;
+      fill: #ffffff;
+      margin: -3.5em auto auto 20px;
+  }
+  #status {
+      font-weight: lighter;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      font-size: 1em;
+      margin-top: -0.2em;
+      margin-bottom: 0;
+  }
+  #lower-side {
+      padding: 2em 2em 5em 2em;
+      background: #ffffff;
+      display: block;
+      border-bottom-right-radius: 8px;
+      border-bottom-left-radius: 8px;
+      color:#000000;
+  }
+
+  .logos-img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+}
+
+.linkform{
+      color:white;
+      background-color:rgb(255,75,75);
+      font-family: 'Kaushan Script';
+      border-radius: 6px;
+   
+}
+
+.divider{
+      color: rgb(255,75,75);
+}
+ 
